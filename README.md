@@ -1,2 +1,2 @@
 # DropShopBG
-Dropshipping opensource django webapp
+Dropshipping open source django webapp
